@@ -35,7 +35,7 @@
 ### 📊 Player Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-95stars&show_icons=true&theme=react&hide_border=true" alt="Clinton's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=git-95stars&theme=tokyonight&hide_border=true" alt="Clinton's GitHub Streak" />
 </div>
 
 <br>
