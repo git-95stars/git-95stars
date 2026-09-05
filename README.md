@@ -5,10 +5,10 @@
 
 ### 🎬 Behind the Screens
 
-📍 **Base of Operations:** Nairobi, KE
-🚀 **Currently Building:** The *QuickTransit Web App* and an *Android Auth App*.
-🧠 **Exploring:** Advanced Agile Methodologies & Mobile UI.
-🎮 **Side Quests:** Video Editing, Motion Graphics, and Gaming.
+📍 **Base of Operations:** Nairobi, KE <br>
+🚀 **Currently Building:** The *QuickTransit Web App* and an *Android Auth App*. <br>
+🧠 **Exploring:** Advanced Agile Methodologies & Mobile UI. <br>
+🎮 **Side Quests:** Video Editing, Motion Graphics, and Gaming. <br>
 
 > *"I treat building software like leveling up a skill tree. Compiling code by day, rendering timelines by night."*
 
