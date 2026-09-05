@@ -70,3 +70,27 @@
 | A full-stack public transit management system built to handle trip logging, passenger records, and payments. Features a seamlessly migrated cloud database architecture. | A native mobile sign-up and authentication application featuring custom background UI elements and secure user onboarding. |
 | **Tech:** Java • MySQL • Render • Aiven Cloud | **Tech:** Android Studio • Java • XML |
 | 🔗 [Live Demo](https://quick-transit-namata.onrender.com/) \| 💻 [Source Code](https://github.com/git-95stars/Quick-Transit-Namata) |🚧 *Repository Currently Offline* |
+
+---
+
+ ### 📬 Let's Connect
+ 
+<div align="center">
+  <h3>📬 Let's Connect & Build Together</h3>
+  <p><em>Always down to talk tech, review code, or queue up.</em></p>
+
+  <p>
+    <a href="https://github.com/git-95stars" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:ashiraclinton34@gmai.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://discord.com/users/your-discord" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
+</div>
