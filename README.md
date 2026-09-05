@@ -38,8 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=git-95stars&theme=tokyonight&hide_border=true" alt="Clinton's GitHub Streak" />
 </div>
 
-<br>
-
 <div align="center">
   <p><em>Open to suggestions, collabs, and cool ideas. W guys!</em> 🚀</p>
 </div>
