@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Clinton Ashira 🚀</h1>
-  <p><em>Full-Stack & Mobile Developer • Video Editor • Gamer</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Clinton%20Ashira&fontSize=80&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Video%20Editor%20%7C%20Gamer&descAlignY=65&descSize=20" />
 </div>
 
 ---
