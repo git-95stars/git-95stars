@@ -39,3 +39,13 @@
 <div align="center">
   <p><em>Open to suggestions, collabs, and cool ideas. W guys!</em> 🚀</p>
 </div>
+
+---
+
+### 🎯 Featured Projects
+
+| 🚌 QuickTransit Web App | 📱 Android Auth App |
+| :--- | :--- |
+| A full-stack public transit management system built to handle trip logging, passenger records, and payments. Features a seamlessly migrated cloud database architecture. | A native mobile sign-up and authentication application featuring custom background UI elements and secure user onboarding. |
+| **Tech:** Java • MySQL • Render • Aiven Cloud | **Tech:** Android Studio • Java • XML |
+| 🔗 [Live Demo](https://quick-transit-namata.onrender.com/) \| 💻 [Source Code](https://github.com/git-95stars/Quick-Transit-Namata) |🚧 *Repository Currently Offline* |
