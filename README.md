@@ -7,7 +7,7 @@
 
 📍 **Base of Operations:** Nairobi, KE <br>
 🚀 **Currently Building:** The *QuickTransit Web App* and an *Android Auth App*. <br>
-🧠 **Exploring:** Advanced Agile Methodologies & Mobile UI. <br>
+🧠 **Exploring:** Advanced Agile Methodologies & Mobile UI | UX. <br>
 🎮 **Side Quests:** Video Editing, Motion Graphics, and Gaming. <br>
 
 > *"I treat building software like leveling up a skill tree. Compiling code by day, rendering timelines by night."*
