@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=220&section=header&text=Clinton%20Ashira&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20and%20Mobile%20Developer%20%E2%80%A2%20Video%20Editor%20%E2%80%A2%20Gamer&descSize=18&descColor=ffffff&descAlignY=65" width="100%" />
 </div>
----
 
 ### 🎬 Behind the Screens
 
