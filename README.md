@@ -5,7 +5,7 @@
 
 ### 🎬 Behind the Screens
 
-📍 **Base of Operations:** Nairobi, KE <br>
+📍 **Base of Operations:** Nakuru, KE <br>
 🚀 **Currently Building:** The *QuickTransit Web App* and an *Android Auth App*. <br>
 🧠 **Exploring:** Advanced Agile Methodologies & Mobile UI | UX. <br>
 🎮 **Side Quests:** Video Editing, Motion Graphics, and Gaming. <br>
